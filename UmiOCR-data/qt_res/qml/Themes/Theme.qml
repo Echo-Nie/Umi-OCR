@@ -6,7 +6,7 @@ import QtQuick 2.15
 
 Item {
     // 主题名称
-    property string themeTitle: "Unknow theme"
+    property string themeTitle: "Unknown theme"
 
     // ========================= 【颜色】 =========================
 

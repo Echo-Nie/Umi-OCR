@@ -97,7 +97,7 @@ class _ScreenshotControllerClass:
             text = mimeData.text()
             res = {"type": "text", "text": text}
         else:
-            res = {"type": "error", "error": "[Warning] Unknow mimeData in clipboard."}
+            res = {"type": "error", "error": "[Warning] Unknown mimeData in clipboard."}
         return res  # 返回结果字典
 
 
