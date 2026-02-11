@@ -43,7 +43,7 @@ URL：`/argv`
 - 如：命令行调用 `Umi-OCR.exe --path "D:/xxx.png"`
 - 等价于向argv接口发送： `["--path", "D:/xxx.png"]`
 
-具体命令行规则请见 [README_CLI.md](README_CLI.md) 。
+具体命令行规则请见 [README_CLI.md](../README_CLI.md) 。
 
 ### 调用接口 示例代码
 
